@@ -1,8 +1,23 @@
 aid: bitdao
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bitdao.png
 name: BitDAO
-description: 'BitDAO is a company surfaced as a portfolio company of pantera-capital and added to the
-  API Evangelist network as a stub for enrichment. Sector: crypto. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'BitDAO is a decentralized autonomous organization (DAO) launched in 2021 to fund
+  and govern the growth of decentralized finance and the broader on-chain economy, with decisions
+  made by holders of the BIT governance token. BitDAO incubated Mantle Network, an Ethereum Layer 2
+  scaling solution, and in 2023 the BIT token merged into MNT as the project rebranded to Mantle;
+  bitdao.io now redirects to mantle.xyz. BitDAO publishes governance, tokenomics, and litepaper
+  documentation rather than a developer REST API. Sector: crypto.'
 url: https://raw.githubusercontent.com/api-evangelist/bitdao/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +27,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Crypto
+- DAO
+- Governance
+- DeFi
+- Blockchain
+- Layer 2
+- Ethereum
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +46,16 @@ maintainers:
 common:
 - type: Website
   url: https://www.bitdao.io/
+- type: Documentation
+  url: https://docs.bitdao.io/
+- type: GitHubOrganization
+  url: https://github.com/bitdao-io
+- type: LLMsTxt
+  url: llms/bitdao-llms.txt
+- type: DomainSecurity
+  url: security/bitdao-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,39 @@
+# BitDAO
+
+## English
+
+- [Introduction](https://docs.bitdao.io/master.md)
+- [Governance](https://docs.bitdao.io/litepaper-1/governance-overview.md)
+- [Delegation](https://docs.bitdao.io/litepaper-1/delegation.md)
+- [Tokenomics](https://docs.bitdao.io/litepaper-1/tokenomics.md)
+- [Early Partners](https://docs.bitdao.io/partners/early-partners.md)
+- [Bybit Pledge](https://docs.bitdao.io/partners/bybit-pledge.md): https://www.bybit.com/
+- [SushiSwap DAO](https://docs.bitdao.io/partners/sushiswap-dev-team.md): https://sushi.com/
+- [FAQ](https://docs.bitdao.io/additional-documents/faq.md)
+- [Official Links](https://docs.bitdao.io/additional-documents/official-links.md)
+- [Audit Reports](https://docs.bitdao.io/additional-documents/audit-reports.md)
+- [Brand Assets](https://docs.bitdao.io/additional-documents/brand-assets.md)
+
+## CN 中文
+
+- [简介](https://docs.bitdao.io/cn/master.md)
+
+## ES Español
+
+- [Introducción](https://docs.bitdao.io/es/master.md)
+
+## JP 日本語
+
+- [はじめに](https://docs.bitdao.io/jp/master.md)
+
+## KR 한국어
+
+- [소개](https://docs.bitdao.io/kr/master.md)
+
+## RU Русский
+
+- [О проекте](https://docs.bitdao.io/ru/master.md)
+
+## TR Türkçe
+
+- [Giriş](https://docs.bitdao.io/tr/master.md)
